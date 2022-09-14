@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * main - Prints Alx-low_level_programming as a message.
+ * main - print _purchar
  *
  * Return: Always 0 (Success)
  */
